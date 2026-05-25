@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am passionate about data science, machine learning, and software development.  
+I am passionate about data science, machine learning, scrapping and software development.  
 I enjoy solving real-world problems using data-driven approaches and continuously improving my technical and analytical skills.
 
 ---
@@ -14,7 +14,7 @@ I enjoy solving real-world problems using data-driven approaches and continuousl
 ## 🌱 Skills
 
 - **Programming Languages:** Python, SQL
-- **Libraries & Frameworks:** pandas, NumPy, scikit-learn, Django
+- **Libraries & Frameworks:** pandas, NumPy, scikit-learn, Django, selenium
 - **Databases:** MySQL, PostgreSQL
 - **Tools & Platforms:** Git, GitHub, VS Code
 - **Concepts:** Machine Learning, Data Analysis, Data Cleaning, ETL Process
